@@ -7,6 +7,6 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   demoBtn.addEventListener('click', () => {
-    window.open('https://taskflow-devops-1.onrender.com', '_blank');
+    window.open("https://github.com/KerenAG/taskflow-devops/blob/main/README.md", '_blank');
   });
 });
